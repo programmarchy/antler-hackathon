@@ -2,7 +2,7 @@
 
 Abby is a chatbot that can help you answer questions about real estate.
 
-In fact, she can even pass the real estaate licensing exam!
+In fact, she can even pass the real estate licensing exam!
 
 ## Run the demo
 

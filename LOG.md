@@ -35,3 +35,5 @@ It responds with:
 > To calculate the total land coverage including the deck addition:\n\n1. The lot size is 1/3 of an acre. Since 1 acre = 43,560 square feet, 1/3 acre = 43,560 / 3 = 14,520 square feet.\n2. The home takes up 20% of the lot, and the shed takes up 5%, totaling 25% coverage without the deck.\n3. The deck is 500 square feet. To find the percentage of the lot this covers: (500 / 14,520) * 100 = 3.44%.\n4. Adding the deck's coverage to the existing 25% gives a total coverage of 28.44%.\n\nTherefore, the closest answer is C) 28.8%.\n
 
 The answer is correct.
+
+Bryce has written a series of calculator tools to help with the math questions. Going to hook up some tool calling and see how it affects the evals.
